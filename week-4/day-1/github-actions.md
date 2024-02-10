@@ -44,6 +44,10 @@ jobs:
 - We can use the GitHub Actions Hosted Runners to run our CI/CD pipeline.
 - It's just like using Jenkins with EC2 instance.
 
+We can always refer to the [official documentation](https://docs.github.com/en/actions) for more information.<br>
+
+You can use this link to use already creted codes for GitHub Actions: https://github.com/actions 
+
 
     
 
