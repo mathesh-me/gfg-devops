@@ -30,6 +30,10 @@ yum install ansible-core -y
 
 - Inventory file is used to define the list of servers on which we want to run the playbooks.
 
+### Ansible Playbook
+
+- Playbook is a file where we define the tasks that we want to run on the remote servers.
+
 
 
 
