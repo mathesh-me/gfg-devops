@@ -21,6 +21,15 @@
 yum install ansible-core -y
 ```
 
+### Ansible configuration file
+
+- The default configuration file for Ansible is `/etc/ansible/ansible.cfg`.
+
+
+### Inventory file in Ansible
+
+- Inventory file is used to define the list of servers on which we want to run the playbooks.
+
 
 
 
